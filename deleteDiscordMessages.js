@@ -1,4 +1,6 @@
-// Paste this code inside discord.com console
+ladykelz
+  Delete discord message
+      // Paste this code inside discord.com console
 
 (function () {
     let stop;
